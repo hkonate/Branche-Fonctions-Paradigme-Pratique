@@ -1,1 +1,2 @@
-# Branche-Fonctions-Paradigme-Pratique
+- En JS dans une page HTML, utilisez la fonction prompt (bibliotheque par défaut de JS) pour demander à la visiteuse son nom. Affichez ensuite une popup avec la fonction alert où vous saluez la visiteuse en mentionnant son nom (par exemple “bonjour Janne” si elle a saisi Janne comme nom)
+- Regroupez l’exercice précédent dans une fonction qui sera appelée par l’attribut onclick d’un élément de votre page HTML.
